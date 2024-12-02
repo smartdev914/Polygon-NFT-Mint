@@ -1,0 +1,14 @@
+.nft-images::-webkit-scrollbar{
+    background-color: #93E018;
+    width: 8px;
+    border-radius: 5px;
+}
+
+/* 
+.nft-images::-webkit-scrollbar-track {
+    background-color: red;
+} */
+
+.nft-images::-webkit-scrollbar-thumb {
+    box-shadow: inset 0 0 6px rgba(20, 20, 20, 1);
+}
